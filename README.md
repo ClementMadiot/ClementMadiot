@@ -23,8 +23,19 @@
         <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     </td>
     <td align="center" width="150">
+        <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
+    </td>
+    <td align="center" width="150">
         <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" height="28px" alt="typescript" />
     </td>
+    <td align="center" width="150">
+       <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" height="28px" alt="javascript" />
+    </td>
+
+  </tr>
+</table>
+<table>
+  <tr>
     <td align="center" width="150">
         <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" height="28px" alt="tailwindcss" />
     </td>
@@ -40,7 +51,7 @@
     <td align="center" width="150">
         <img src="https://img.shields.io/badge/framer_motion-ffca28?style=for-the-badge&logo=framer&logoColor=%23ffffff&color=%237178f6" height="28px" alt="Framer-motion" />
     </td>
-
+    
   </tr>
 </table>
 
@@ -81,12 +92,11 @@
 </table>
 
 <h2 align="left">📈 GitHub Stats</h2>
-<div align="left">
-<img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=ClementMadiot&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="github-stats" />
-<img align="center" height="180" src="https://github.com/user-attachments/assets/ba36bd38-7abd-4f4e-b060-7b6b8d177ff0" alt="github-streak" />
-</div>
+
+<img align="left" height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=ClementMadiot&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="github-stats" />
+<img align="right" src="https://github.com/user-attachments/assets/ad9670e3-b2fb-4221-87bc-288824c80b41" alt="github-most-language" />
+
 <br/>
-<div align="left">
-  <img height="180" src="https://github.com/user-attachments/assets/ad9670e3-b2fb-4221-87bc-288824c80b41" alt="github-most-language" />
-</div>
+<img align="left" height="180" width="400" src="https://github.com/user-attachments/assets/ba36bd38-7abd-4f4e-b060-7b6b8d177ff0" alt="github-streak" />
+
 
