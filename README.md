@@ -93,10 +93,15 @@
 
 <h2 align="left">📈 GitHub Stats</h2>
 
-<img align="left" height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=ClementMadiot&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="github-stats" />
-<img align="right" src="https://github.com/user-attachments/assets/ad9670e3-b2fb-4221-87bc-288824c80b41" alt="github-most-language" />
+<a href="https://github.com/ClementMadiot/ClementMadiot">
+<img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=ClementMadiot&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="github-stats" />
+</a>
+<a href="https://github.com/ClementMadiot/ClementMadiot">
+<img align="center" src="https://github.com/user-attachments/assets/ad9670e3-b2fb-4221-87bc-288824c80b41" alt="github-most-language" />
+</a>
 
-<br/>
-<img align="left" height="180" width="400" src="https://github.com/user-attachments/assets/ba36bd38-7abd-4f4e-b060-7b6b8d177ff0" alt="github-streak" />
+
+
+
 
 
