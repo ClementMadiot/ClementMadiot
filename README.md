@@ -31,7 +31,9 @@
     <td align="center" width="150">
        <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" height="28px" alt="javascript" />
     </td>
-
+    <td align="center" width="150">
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+    </td>
   </tr>
 </table>
 <table>
@@ -93,10 +95,6 @@
     <td align="center" width="150">
         <img src="https://img.shields.io/badge/Imagekit.io-0450D5?style=for-the-badge&labelColor=0450D5" alt="imagekit.io" />
     </td>
-    <td align="center" width="150">
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-    </td>
-
   </tr>
 </table>
 
@@ -106,7 +104,7 @@
   <td>
     <ul>
       <li>Figma, VSCode, Git, OpenAI</li>
-      <li>Vercel, Netlify, Cloudflare, Hostinger</li>
+      <li>Vercel, Netlify, Hostinger</li>
       <li>RestAPI, Auth.js, Neon PostgreSQL</li>
       <li>EmailJS, Resend, Nodemailer</li>
     </ul>
