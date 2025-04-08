@@ -8,7 +8,7 @@
 
 - ⚡ Learn more about me, check my **[Portfolio](https://cmadiot.vercel.app/)**
 - 💻 Connect with me on **[Linkedin](https://www.linkedin.com/feed/)**
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on **[BookWise](https://github.com/ClementMadiot/BookWise-nextjs-app)**
 
 <h2 align="left">🔧 Technologies & Tools</h2>
 
