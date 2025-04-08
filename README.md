@@ -46,7 +46,7 @@
         <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white" height="28px" alt="ShadCDN/UI" />
     </td>
     <td align="center" width="150">
-        <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=whitee" height="28px" alt="Material UI" />
+        <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="28px" alt="Material UI" />
     </td>
     <td align="center" width="150">
         <img src="https://img.shields.io/badge/framer_motion-ffca28?style=for-the-badge&logo=framer&logoColor=%23ffffff&color=%237178f6" height="28px" alt="Framer-motion" />
@@ -71,11 +71,32 @@
 <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
     </td>
     <td align="center" width="150">
-<img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" />
-    </td>
-    <td align="center" width="150">
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
     </td>
+            <td align="center" width="150">
+<img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="150">
+        <img src="https://img.shields.io/badge/-Upstash-black?style=for-the-badge&logoColor=white&logo=upstash&color=00E9A3" alt="upstash" />
+    </td>
+    <td align="center" width="150">
+        <img src="https://img.shields.io/badge/-Drizzle-black?style=for-the-badge&logoColor=green&logo=drizzle&color=000000" alt="drizzle" />
+    </td>
+    <td align="center" width="150">
+        <img src="https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logoColor=white&logo=postgresql&color=4169E1" alt="postgresql" />
+    </td>
+    <td align="center" width="150">
+        <img src="https://img.shields.io/badge/Imagekit.io-0450D5?style=for-the-badge&labelColor=0450D5" alt="imagekit.io" />
+    </td>
+    <td align="center" width="150">
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+    </td>
+
   </tr>
 </table>
 
@@ -84,9 +105,10 @@
 <table>
   <td>
     <ul>
-      <li>Figma, VSCode</li>
-      <li>Vercel, Netlify</li>
-      <li>Git, RestAPI, OpenAI</li>
+      <li>Figma, VSCode, Git, OpenAI</li>
+      <li>Vercel, Netlify, Cloudflare, Hostinger</li>
+      <li>RestAPI, Auth.js, Neon PostgreSQL</li>
+      <li>EmailJS, Resend, Nodemailer</li>
     </ul>
   </td>
 </table>
