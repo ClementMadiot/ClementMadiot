@@ -98,13 +98,60 @@
   </tr>
 </table>
 
-<h3 align="left">📁 More</h3>
 
+  <h3 align="left">☁️ Cloud System</h3>
+  <div>
+    
+  <table>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7" height="28px" alt="Netlify" />
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff" height="28px" alt="Hostinger" />
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" height="28px" alt="Vercel" />
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" height="28px" alt="Cloudflare" />
+    </td>
+  </table
+  </div>
+
+  <h3 align="left">💻 Code Editor</h3>
+  <div>
+  <table>
+    <td align="center" width="150">
+      <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" height="28px" alt="Visual Studio Code" />
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black" height="28px" alt="CodePen" />
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/CodeSandbox-151515?logo=codesandbox&logoColor=fff" height="28px" alt="CodeSandbox" />
+    </td>
+  </table
+  </div>
+  
+
+  <h3 align="left">🤖 Artificial Intelligence</h3>
+   <div>
+  <table>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" height="28px" alt="GitHub Copilot" />
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" height="28px" alt="ChatGPT" />
+    </td>
+  </table
+  </div>
+
+  
+<h3 align="left">📁 More</h3>
 <table>
   <td>
     <ul>
-      <li>Figma, VSCode, Git, OpenAI</li>
-      <li>Vercel, Netlify, Hostinger</li>
+      <li>Figma</li>
       <li>RestAPI, Auth.js, Neon PostgreSQL</li>
       <li>EmailJS, Resend, Nodemailer</li>
     </ul>
