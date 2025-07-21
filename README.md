@@ -158,15 +158,6 @@
   </td>
 </table>
 
-<h2 align="left">📈 GitHub Stats</h2>
-
-<a href="https://github.com/ClementMadiot/ClementMadiot">
-<img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=ClementMadiot&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="github-stats" />
-</a>
-<a href="https://github.com/ClementMadiot/ClementMadiot">
-<img align="center" src="https://github.com/user-attachments/assets/ad9670e3-b2fb-4221-87bc-288824c80b41" alt="github-most-language" />
-</a>
-
 
 
 
