@@ -1,14 +1,12 @@
 <h1 align="left"> Hi there 👋, I'm Clément !</h1>
 
-- **[ENG]** Passionate about building modern, high-performance web applications. Specialized in React, Next.js, and Tailwind CSS, with experience in back-end technologies like Node.js and Appwrite/MongoDB.
-
-- **[FR]** Passionné par la création d’applications web modernes et performantes. Spécialisé en React, Next.js et Tailwind CSS, avec une expérience en back-end sur Node.js et Appwrite//MongoDB.
+- **Web Developer** specialized in React, Next.js, and Tailwind CSS, with experience in back-end technologies like Node.js and PostgreSQL/MongoDB.
 
 <h2 align="left">📖 About me</h2>
 
 - ⚡ Learn more about me, check my **[Portfolio](https://cmadiot.vercel.app/)**
-- 💻 Connect with me on **[Linkedin](https://www.linkedin.com/feed/)**
-- 🔭 I’m currently working on **[BookWise](https://github.com/ClementMadiot/BookWise-nextjs-app)**
+- 💻 Connect with me on **[Linkedin](https://www.linkedin.com/in/cl%C3%A9ment-madiot-9862b824a/)**
+- 📧 Contact me on my **[Email](mailto:clementmadiot09@gmail.com)**
 
 <h2 align="left">🔧 Technologies & Tools</h2>
 
@@ -23,16 +21,13 @@
         <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     </td>
     <td align="center" width="150">
-        <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
-    </td>
-    <td align="center" width="150">
         <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" height="28px" alt="typescript" />
     </td>
     <td align="center" width="150">
        <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" height="28px" alt="javascript" />
     </td>
     <td align="center" width="150">
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+        <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
     </td>
   </tr>
 </table>
@@ -40,9 +35,6 @@
   <tr>
     <td align="center" width="150">
         <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" height="28px" alt="tailwindcss" />
-    </td>
-    <td align="center" width="150">
-        <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" height="28px" alt="sass" />
     </td>
     <td align="center" width="150">
         <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white" height="28px" alt="ShadCDN/UI" />
@@ -67,16 +59,7 @@
         <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" />
     </td>
     <td align="center" width="150">
-        <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Node.js" />
-    </td>
-        <td align="center" width="150">
-<img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
-    </td>
-    <td align="center" width="150">
-<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
-    </td>
-            <td align="center" width="150">
-<img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" />
+        <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
     </td>
   </tr>
 </table>
@@ -84,16 +67,16 @@
 <table>
   <tr>
     <td align="center" width="150">
-        <img src="https://img.shields.io/badge/-Upstash-black?style=for-the-badge&logoColor=white&logo=upstash&color=00E9A3" alt="upstash" />
-    </td>
-    <td align="center" width="150">
-        <img src="https://img.shields.io/badge/-Drizzle-black?style=for-the-badge&logoColor=green&logo=drizzle&color=000000" alt="drizzle" />
-    </td>
-    <td align="center" width="150">
         <img src="https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logoColor=white&logo=postgresql&color=4169E1" alt="postgresql" />
     </td>
     <td align="center" width="150">
-        <img src="https://img.shields.io/badge/Imagekit.io-0450D5?style=for-the-badge&labelColor=0450D5" alt="imagekit.io" />
+      <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" />
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
     </td>
   </tr>
 </table>
@@ -104,34 +87,17 @@
     
   <table>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7" height="28px" alt="Netlify" />
+      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" height="28px" alt="Vercel" />
     </td>
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff" height="28px" alt="Hostinger" />
     </td>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" height="28px" alt="Vercel" />
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" height="28px" alt="Cloudflare" />
+      <img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7" height="28px" alt="Netlify" />
     </td>
   </table
   </div>
 
-  <h3 align="left">💻 Code Editor</h3>
-  <div>
-  <table>
-    <td align="center" width="150">
-      <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" height="28px" alt="Visual Studio Code" />
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black" height="28px" alt="CodePen" />
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/CodeSandbox-151515?logo=codesandbox&logoColor=fff" height="28px" alt="CodeSandbox" />
-    </td>
-  </table
-  </div>
   
 
   <h3 align="left">🤖 Artificial Intelligence</h3>
@@ -145,21 +111,12 @@
     </td>
   </table
   </div>
-
-  
-<h3 align="left">📁 More</h3>
-<table>
-  <td>
-    <ul>
-      <li>Figma</li>
-      <li>RestAPI, Auth.js, Neon PostgreSQL</li>
-      <li>EmailJS, Resend, Nodemailer</li>
-    </ul>
-  </td>
-</table>
-
-
-
-
-
-
+    
+  <h3 align="left">💻 Code Editor</h3>
+  <div>
+  <table>
+    <td align="center" width="150">
+      <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" height="28px" alt="Visual Studio Code" />
+    </td>
+  </table
+  </div>
